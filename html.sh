@@ -52,7 +52,8 @@ Define uma divisão na página - um bloco para oque está dentro dela
 Define um formulário
  
 <input>
-Caixa de entrada - ex: button, checkbox, color, date, datetime-local, email, file, hidden, image, month, number, password, radio, range, reset, search, submit, tel, text, url, week
+Caixa de entrada - ex: button, checkbox, color, date, datetime-local, email, file, hidden, image, 
+month, number, password, radio, range, reset, search, submit, tel, text, url, week
  
 <textarea>
 Campo de texto (grande)
